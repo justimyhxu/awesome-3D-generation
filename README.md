@@ -39,6 +39,14 @@
 #### Voxel Grids
 
 - [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584), Neurips, 2016
+- Generalized Autoencoder for Volumetric Shape Generation, cvprw 2020
+- PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes, cvpr 2020
+- DECOR-GAN: 3D Shape Detailization by Conditional Refinement, cvpr 2021
+- 3d shapenets: A deep representation for volumetric shapes,  cvpr 2015
+- Learning part generation and assembly for structure-aware shape synthesis, aaai 2020
+- Generative VoxelNet: learning energy-based models for 3D shape synthesis and analysis, tpami 2020
+- Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, arxiv 2021
+- DLGAN: Depth-Preserving Latent Generative Adversarial Network for 3D Reconstruction, tmm 2020
 
 #### Normal / Depth
 - [Generative Image Modeling using Style and Structure Adversarial Networks](https://arxiv.org/abs/1603.05631), ECCV, 2016
