@@ -84,46 +84,46 @@
 ## Mesh
 
 - Sdm-net: Deep generative network for structured deformable mesh <br>
-  SIGGRAPH Asia 2019
+  [SIGGRAPH Asia 2019](https://arxiv.org/abs/1908.04520) / [Code](http://geometrylearning.com/sdm-net/)
 
 ## Implicit function
 
 - Learning Implicit Fields for Generative Shape Modeling <br>
-  CVPR 2019
+  [CVPR 2019](https://arxiv.org/abs/1812.02822) / [Code](https://github.com/czq142857/implicit-decoder)
 - Adversarial generation of continuous implicit shape representations <br>
-  arXiv 2020
+  [arXiv 2020](https://arxiv.org/abs/2002.00349) / [Code](https://github.com/marian42/shapegan)
 - DualSDF: Semantic Shape Manipulation using a Two-Level Representation <br>
-  CVPR 2020
+  [CVPR 2020](https://arxiv.org/abs/2004.02869) / [Code](https://github.com/zekunhao1995/DualSDF)
 - SurfGen: Adversarial 3D Shape Synthesis with Explicit Surface Discriminators <br>
-  ICCV 2021
+  [ICCV 2021](https://arxiv.org/abs/2201.00112)
 - 3d shape generation with grid-based implicit functions <br>
-  CVPR 2021
+  [CVPR 2021](https://arxiv.org/abs/2107.10607)
 - gDNA: Towards Generative Detailed Neural Avatars <br>
-  CVPR 2022
+  [CVPR 2022](https://arxiv.org/abs/2201.04123) / [Code](https://github.com/xuchen-ethz/gdna)
 - Deformed implicit field: Modeling 3d shapes with learned dense correspondence <br>
-  CVPR 2021
+  [CVPR 2021](https://arxiv.org/abs/2011.13650) / [Code](https://github.com/microsoft/DIF-Net)
 
 ## Parametric surface
 
 - Multi-chart generative surface modeling <br>
-  SIGGRAPH Asia 2018
+  [SIGGRAPH Asia 2018](https://arxiv.org/abs/1806.02143) / [Code](https://github.com/helibenhamu/multichart3dgans)
 
 ## Primitive shapes
 
 - Physically-aware generative network for 3d shape modeling <br>
-  CVPR 2021
+  [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Mezghanni_Physically-Aware_Generative_Network_for_3D_Shape_Modeling_CVPR_2021_paper.html)
 
 ## Hybrid representation
 
 - Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis <br>
-  NeurIPS 2021
+  [NeurIPS 2021](https://arxiv.org/abs/2111.04276)
 - Coupling explicit and implicit surface representations for generative 3d modeling <br>
-  ECCV 2020
+  [ECCV 2020](https://arxiv.org/abs/2007.10294)
 
 ## Program
 
 - Shapeassembly: Learning to generate programs for 3d shape structure synthesis <br>
-  SIGGRAPH Asia 2020
+  [SIGGRAPH Asia 2020](https://arxiv.org/abs/2009.08026) / [Code](https://github.com/rkjones4/ShapeAssembly)
 
 ## 3D-aware Image Synthesis
 
