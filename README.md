@@ -62,7 +62,7 @@
   [CVPR 2015](https://arxiv.org/abs/1406.5670) / [Code](https://github.com/zhirongw/3DShapeNets)
 - Learning part generation and assembly for structure-aware shape synthesis <br>
   [AAAI 2020](https://arxiv.org/abs/1906.06693)
-- SAGNet: Structure-aware Generative Network for 3D-Shape Modeling
+- SAGNet: Structure-aware Generative Network for 3D-Shape Modeling <br>
   [SIGGRAPH 2019](https://dilincv.github.io/papers/SAGNet_sig2019.pdf) / [Code](https://github.com/zhijieW94/SAGNet)
 - Generative VoxelNet: learning energy-based models for 3D shape synthesis and analysis <br>
   [TPAMI 2020](http://www.stat.ucla.edu/~jxie/3DDescriptorNet/3DDescriptorNet_file/doc/3DDescriptorNet.pdf) / [Code](https://github.com/jianwen-xie/3DDescriptorNet)
