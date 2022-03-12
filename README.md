@@ -63,7 +63,7 @@
 #### Implicit function
 
 - Learning Implicit Fields for Generative Shape Modeling, CVPR 2019
-- Adversarial generation of continuous implicit shape representations, CVPR 2021
+- Adversarial generation of continuous implicit shape representations, arxiv 2020
 - DualSDF: Semantic Shape Manipulation using a Two-Level Representation, CVPR 2020
 - SurfGen: Adversarial 3D Shape Synthesis with Explicit Surface Discriminators, ICCV 2021
 - 3d shape generation with grid-based implicit functions, CVPR 2021
