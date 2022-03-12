@@ -48,12 +48,35 @@
 - Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, arxiv 2021
 - DLGAN: Depth-Preserving Latent Generative Adversarial Network for 3D Reconstruction, tmm 2020
 
-#### Normal / Depth
-- [Generative Image Modeling using Style and Structure Adversarial Networks](https://arxiv.org/abs/1603.05631), ECCV, 2016
-- [Geometric Image Synthesis](https://arxiv.org/abs/1809.04696), ACCV, 2018
-- [RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis](https://arxiv.org/abs/1909.12573), ICLR, 2020
-- [Towards a Neural Graphics Pipeline for Controllable Image Generation](https://arxiv.org/abs/2006.10569), Comput. Graph. Forum, 2021
-- [3D-Aware Indoor Scene Synthesis with Depth Priors](https://arxiv.org/abs/2202.08553), 2022
+#### Mesh
+
+- Sdm-net: Deep generative network for structured deformable mesh, siggraph asia 2019
+
+#### Implicit function
+
+- Learning Implicit Fields for Generative Shape Modeling, CVPR 2019
+- Adversarial generation of continuous implicit shape representations, CVPR 2021
+- DualSDF: Semantic Shape Manipulation using a Two-Level Representation, CVPR 2020
+- SurfGen: Adversarial 3D Shape Synthesis with Explicit Surface Discriminators, ICCV 2021
+- 3d shape generation with grid-based implicit functions, CVPR 2021
+- gDNA: Towards Generative Detailed Neural Avatars, CVPR 2022
+
+#### Parametric surface
+
+- Multi-chart generative surface modeling, SIGGRAPH Asia 2018
+
+#### Primitive shapes
+
+- Physically-aware generative network for 3d shape modeling, CVPR 2021
+
+#### Hybrid representation
+
+- Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis, NeurIPS 2021
+- Coupling explicit and implicit surface representations for generative 3d modeling, ECCV 2020
+
+#### Program
+
+- Shapeassembly: Learning to generate programs for 3d shape structure synthesis, siggraph asia 2020
 
 #### 3D-aware image synthesis
 
@@ -63,7 +86,12 @@
 
 ##### StyleGAN
 
+- [Generative Image Modeling using Style and Structure Adversarial Networks](https://arxiv.org/abs/1603.05631), ECCV, 2016
+- [Geometric Image Synthesis](https://arxiv.org/abs/1809.04696), ACCV, 2018
 - [BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images](https://arxiv.org/abs/2002.08988), Neurips, 2020
+- [RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis](https://arxiv.org/abs/1909.12573), ICLR, 2020
+- [Towards a Neural Graphics Pipeline for Controllable Image Generation](https://arxiv.org/abs/2006.10569), Comput. Graph. Forum, 2021
+- [3D-Aware Indoor Scene Synthesis with Depth Priors](https://arxiv.org/abs/2202.08553), 2022
 
 ##### Implicit function
 
@@ -77,6 +105,30 @@
 - [3D-aware Image Synthesis via Learning Structural and Textural Representations](https://arxiv.org/abs/2112.10759), CVPR, 2022
 - [StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation](https://arxiv.org/abs/2112.11427), 2022
 - [GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation](https://arxiv.org/abs/2112.08867), CVPR, 2022
+- Campari: Camera-aware decomposed generative neural radiance fields, 3dv 2021
+- EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks, cvpr 2022
+- Cips-3d: A 3d-aware generator of gans based on conditionally-independent pixel synthesis, arxiv 2021
+- Gancraft: Unsupervised 3d neural rendering of minecraft worlds, iccv 2021
+- Generative Occupancy Fields for 3D Surface-Aware Image Synthesis, neurips 2021
+- A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis, neurips 2021
+- 3D-Aware Semantic-Guided Generative Model for Human Synthesis, arxiv 2021
+
+##### Per-scene optimization with a discriminator
+
+- Putting nerf on a diet: Semantically consistent few-shot view synthesis, ICCV 2021
+- Gnerf: Gan-based neural radiance field without posed camera, ICCV 2021
+- RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs, CVPR 2022
+
+##### 3D editing
+
+###### StyleGAN
+
+- Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency, ICCV 2021
+
+###### Implicit function
+
+- FENeRF: Face Editing in Neural Radiance Fields, arxiv 2021
+- Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation, CVPR 2022
 
 ##### 未分类
 
