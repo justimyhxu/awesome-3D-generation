@@ -9,7 +9,7 @@
 - 3d point cloud generative adversarial network based on tree structured graph convolutions <br>
   [ICCV 2019](https://arxiv.org/abs/1905.06292) / [Code](https://github.com/prajwalsingh/TreeGCN-GAN)
 - Point cloud gan <br>
-  [ICLR 2019](https://arxiv.org/abs/1810.05795)
+  [ICLR 2019](https://arxiv.org/abs/1810.05795) / [Code](https://github.com/chunliangli/Point-Cloud-GAN)
 - Spectral-gans for high-resolution 3d point-cloud generation <br>
   [IROS 2020](https://arxiv.org/abs/1912.01800) / [Code](https://github.com/samgregoost/Spectral-GAN)
 - Progressive point cloud deconvolution generation network <br>
