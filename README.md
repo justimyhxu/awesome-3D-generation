@@ -21,14 +21,14 @@
 - SP-GAN: Sphere-guided 3D shape generation and manipulation <br>
   [SIGGRAPH 2021](https://arxiv.org/abs/2108.04476) / [Code](https://github.com/liruihui/sp-gan)
 - Multimodal shape completion via conditional generative adversarial networks <br>
-  [ECCV 2020](https://arxiv.org/abs/2003.07717) / [Code](https://github.com/ChrisWu1997/Multimodal-Shape-Completion)
+  [ECCV 2020](https://arxiv.org/abs/2003.07717) / [Code](https://github.com/ChrisWu1997/Multimodal-Shape-Completion) / [Project Page](https://chriswu1997.github.io/files/multimodal-pc/index.html)
 - Learning localized generative models for 3d point clouds via graph convolution <br>
   [ICLR 2019](https://openreview.net/pdf?id=SJeXSo09FQ) / [Code](https://github.com/diegovalsesia/GraphCNN-GAN)
 
 ### Flow-based Model
 
 - Learning gradient fields for shape generation <br>
-  [ECCV 2020](https://arxiv.org/abs/2008.06520) / [Code](https://github.com/RuojinCai/ShapeGF)
+  [ECCV 2020](https://arxiv.org/abs/2008.06520) / [Code](https://github.com/RuojinCai/ShapeGF) / [Project Page](https://www.cs.cornell.edu/~ruojin/ShapeGF/)
 - PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows <br>
   [ICCV 2019](https://arxiv.org/abs/1906.12320) / [Code](https://github.com/stevenygd/PointFlow)
 - SoftFlow: Probabilistic framework for normalizing flow on manifolds <br>
@@ -39,19 +39,19 @@
 ### Auto-regressive Model
 
 - Pointgrow: Autoregressively learned point cloud generation with self-attention <br>
-  [WACV 2020](https://arxiv.org/abs/1810.05591) / [Code](https://github.com/syb7573330/PointGrow)
+  [WACV 2020](https://arxiv.org/abs/1810.05591) / [Code](https://github.com/syb7573330/PointGrow) / [Project Page](https://liuziwei7.github.io/projects/PointGrow)
 
 ### VAE
 
 - Multiresolution tree networks for 3d point cloud processing <br>
-  [ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Matheus_Gadelha_Multiresolution_Tree_Networks_ECCV_2018_paper.pdf) / [Code](https://github.com/matheusgadelha/MRTNet)
+  [ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Matheus_Gadelha_Multiresolution_Tree_Networks_ECCV_2018_paper.pdf) / [Code](https://github.com/matheusgadelha/MRTNet) / [Project Page](http://mgadelha.me/mrt/)
 - Adversarial autoencoders for generating 3d point clouds <br>
   [ICLR 2020](https://arxiv.org/abs/1811.07605) / [Code](https://github.com/MaciejZamorski/3d-AAE)
 
 ## Voxel Grids
 
 - Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling <br>
-  [NeurIPS 2016](https://arXiv.org/abs/1610.07584) / [Code](https://github.com/zck119/3dgan-release)
+  [NeurIPS 2016](https://arXiv.org/abs/1610.07584) / [Code](https://github.com/zck119/3dgan-release) / [Project Page](http://3dgan.csail.mit.edu/)
 - Generalized Autoencoder for Volumetric Shape Generation <br>
   [CVPRW 2020](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w17/Guan_Generalized_Autoencoder_for_Volumetric_Shape_Generation_CVPRW_2020_paper.pdf) / [Code](https://github.com/IsaacGuan/3D-GAE)
 - PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes <br>
@@ -59,19 +59,19 @@
 - DECOR-GAN: 3D Shape Detailization by Conditional Refinement <br>
   [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_DECOR-GAN_3D_Shape_Detailization_by_Conditional_Refinement_CVPR_2021_paper.pdf) / [Code](https://github.com/czq142857/DECOR-GAN)
 - 3d shapenets: A deep representation for volumetric shapes <br>
-  [CVPR 2015](https://arxiv.org/abs/1406.5670) / [Code](https://github.com/zhirongw/3DShapeNets)
+  [CVPR 2015](https://arxiv.org/abs/1406.5670) / [Code](https://github.com/zhirongw/3DShapeNets) / [Project Page](http://3dshapenets.cs.princeton.edu/)
 - Learning part generation and assembly for structure-aware shape synthesis <br>
   [AAAI 2020](https://arxiv.org/abs/1906.06693)
 - SAGNet: Structure-aware Generative Network for 3D-Shape Modeling <br>
-  [SIGGRAPH 2019](https://dilincv.github.io/papers/SAGNet_sig2019.pdf) / [Code](https://github.com/zhijieW94/SAGNet)
+  [SIGGRAPH 2019](https://dilincv.github.io/papers/SAGNet_sig2019.pdf) / [Code](https://github.com/zhijieW94/SAGNet) / [Project Page](https://vcc.tech/research/2019/SAGnet/)
 - Generative VoxelNet: learning energy-based models for 3D shape synthesis and analysis <br>
-  [TPAMI 2020](http://www.stat.ucla.edu/~jxie/3DDescriptorNet/3DDescriptorNet_file/doc/3DDescriptorNet.pdf) / [Code](https://github.com/jianwen-xie/3DDescriptorNet)
+  [TPAMI 2020](http://www.stat.ucla.edu/~jxie/3DDescriptorNet/3DDescriptorNet_file/doc/3DDescriptorNet.pdf) / [Code](https://github.com/jianwen-xie/3DDescriptorNet) / [Project Page](http://www.stat.ucla.edu/~jxie/3DDescriptorNet/3DDescriptorNet.html)
 - Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences <br>
   [arXiv 2021](https://arxiv.org/abs/2111.12480)
 - DLGAN: Depth-Preserving Latent Generative Adversarial Network for 3D Reconstruction <br>
   [TMM 2020](https://ieeexplore.ieee.org/document/9174748)
 - Shape completion using 3d-encoder-predictor cnns and shape synthesis <br>
-  [CVPR 2017](https://arxiv.org/abs/1612.00101) / [Code](https://github.com/angeladai/cnncomplete)
+  [CVPR 2017](https://arxiv.org/abs/1612.00101) / [Code](https://github.com/angeladai/cnncomplete) / [Project Page](http://graphics.stanford.edu/projects/cnncomplete/)
 - Scancomplete: Large-scale scene completion and semantic segmentation for 3d scans <br>
   [CVPR 2018](https://arxiv.org/abs/1712.10215) / [Code](https://github.com/angeladai/ScanComplete)
 - Generative and discriminative voxel modeling with convolutional neural networks <br>
@@ -84,22 +84,22 @@
 ## Mesh
 
 - Sdm-net: Deep generative network for structured deformable mesh <br>
-  [SIGGRAPH Asia 2019](https://arxiv.org/abs/1908.04520) / [Code](http://geometrylearning.com/sdm-net/)
+  [SIGGRAPH Asia 2019](https://arxiv.org/abs/1908.04520) / [Project Page](http://geometrylearning.com/sdm-net/)
 
 ## Implicit function
 
 - Learning Implicit Fields for Generative Shape Modeling <br>
-  [CVPR 2019](https://arxiv.org/abs/1812.02822) / [Code](https://github.com/czq142857/implicit-decoder)
+  [CVPR 2019](https://arxiv.org/abs/1812.02822) / [Code](https://github.com/czq142857/implicit-decoder) / [Project Page](https://www.sfu.ca/~zhiqinc/imgan/Readme.html)
 - Adversarial generation of continuous implicit shape representations <br>
   [arXiv 2020](https://arxiv.org/abs/2002.00349) / [Code](https://github.com/marian42/shapegan)
 - DualSDF: Semantic Shape Manipulation using a Two-Level Representation <br>
-  [CVPR 2020](https://arxiv.org/abs/2004.02869) / [Code](https://github.com/zekunhao1995/DualSDF)
+  [CVPR 2020](https://arxiv.org/abs/2004.02869) / [Code](https://github.com/zekunhao1995/DualSDF) / [Project Page](https://www.cs.cornell.edu/~hadarelor/dualsdf/)
 - SurfGen: Adversarial 3D Shape Synthesis with Explicit Surface Discriminators <br>
   [ICCV 2021](https://arxiv.org/abs/2201.00112)
 - 3d shape generation with grid-based implicit functions <br>
   [CVPR 2021](https://arxiv.org/abs/2107.10607)
 - gDNA: Towards Generative Detailed Neural Avatars <br>
-  [CVPR 2022](https://arxiv.org/abs/2201.04123) / [Code](https://github.com/xuchen-ethz/gdna)
+  [CVPR 2022](https://arxiv.org/abs/2201.04123) / [Code](https://github.com/xuchen-ethz/gdna) / [Project Page](https://xuchen-ethz.github.io/gdna/)
 - Deformed implicit field: Modeling 3d shapes with learned dense correspondence <br>
   [CVPR 2021](https://arxiv.org/abs/2011.13650) / [Code](https://github.com/microsoft/DIF-Net)
 
@@ -116,14 +116,14 @@
 ## Hybrid representation
 
 - Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis <br>
-  [NeurIPS 2021](https://arxiv.org/abs/2111.04276)
+  [NeurIPS 2021](https://arxiv.org/abs/2111.04276) / [Project Page](https://nv-tlabs.github.io/DMTet/)
 - Coupling explicit and implicit surface representations for generative 3d modeling <br>
   [ECCV 2020](https://arxiv.org/abs/2007.10294)
 
 ## Program
 
 - Shapeassembly: Learning to generate programs for 3d shape structure synthesis <br>
-  [SIGGRAPH Asia 2020](https://arxiv.org/abs/2009.08026) / [Code](https://github.com/rkjones4/ShapeAssembly)
+  [SIGGRAPH Asia 2020](https://arxiv.org/abs/2009.08026) / [Code](https://github.com/rkjones4/ShapeAssembly) / [Project Page](https://rkjones4.github.io/shapeAssembly.html)
 
 ## 3D-aware Image Synthesis
 
@@ -145,51 +145,51 @@
 - RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis <br>
   [ICLR 2020](https://arXiv.org/abs/1909.12573) / [Code](https://github.com/nogu-atsu/RGBD-GAN)
 - Towards a Neural Graphics Pipeline for Controllable Image Generation <br>
-  [Computer Graphics Forum 2021](https://arXiv.org/abs/2006.10569)
+  [Computer Graphics Forum 2021](https://arXiv.org/abs/2006.10569) / [Project Page](http://geometry.cs.ucl.ac.uk/projects/2021/ngp/)
 - 3D-Aware Indoor Scene Synthesis with Depth Priors <br>
-  [arXiv 2022](https://arXiv.org/abs/2202.08553) / [Code](https://github.com/VivianSZF/depthgan)
+  [arXiv 2022](https://arXiv.org/abs/2202.08553) / [Code](https://github.com/VivianSZF/depthgan) / [Project Page](https://vivianszf.github.io/depthgan/)
 
 ### Implicit Function
 
 - GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis <br>
-  [NeurIPS 2020](https://arXiv.org/abs/2007.02442) / [Code](https://github.com/autonomousvision/graf)
+  [NeurIPS 2020](https://arXiv.org/abs/2007.02442) / [Code](https://github.com/autonomousvision/graf) / [Project Page](https://autonomousvision.github.io/graf/)
 - GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields <br>
-  [CVPR 2021](https://arXiv.org/abs/2011.12100) / [Code](https://github.com/autonomousvision/giraffe)
+  [CVPR 2021](https://arXiv.org/abs/2011.12100) / [Code](https://github.com/autonomousvision/giraffe) / [Project Page](https://m-niemeyer.github.io/project-pages/giraffe/index.html)
 - pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis <br>
-  [CVPR 2021](https://arXiv.org/abs/2012.00926) / [Code](https://github.com/marcoamonteiro/pi-GAN)
+  [CVPR 2021](https://arXiv.org/abs/2012.00926) / [Code](https://github.com/marcoamonteiro/pi-GAN) / [Project Page](https://marcoamonteiro.github.io/pi-GAN-website/)
 - Unconstrained Scene Generation with Locally Conditioned Radiance Fields <br>
-  [ICCV 2021](https://arXiv.org/abs/2104.00670) / [Code](https://github.com/apple/ml-gsn)
+  [ICCV 2021](https://arXiv.org/abs/2104.00670) / [Code](https://github.com/apple/ml-gsn) / [Project Page](https://apple.github.io/ml-gsn/)
 - A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis <br>
-  [NeurIPS 2021](https://arXiv.org/abs/2110.15678) / [Code](https://github.com/xingangpan/shadegan)
+  [NeurIPS 2021](https://arXiv.org/abs/2110.15678) / [Code](https://github.com/xingangpan/shadegan) / [Project Page](https://xingangpan.github.io/projects/ShadeGAN.html)
 - StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis <br>
-  [ICLR 2022](https://arXiv.org/abs/2110.08985) / [Code](https://github.com/facebookresearch/StyleNeRF)
+  [ICLR 2022](https://arXiv.org/abs/2110.08985) / [Code](https://github.com/facebookresearch/StyleNeRF) / [Project Page](http://jiataogu.me/style_nerf/)
 - Efficient Geometry-aware 3D Generative Adversarial Networks <br>
-  [CVPR 2022](https://arXiv.org/abs/2112.07945) / [Code](https://github.com/NVlabs/eg3d)
+  [CVPR 2022](https://arXiv.org/abs/2112.07945) / [Code](https://github.com/NVlabs/eg3d) / [Project Page](https://matthew-a-chan.github.io/EG3D/)
 - 3D-aware Image Synthesis via Learning Structural and Textural Representations <br>
-  [CVPR 2022](https://arXiv.org/abs/2112.10759) / [Code](https://github.com/genforce/volumegan)
+  [CVPR 2022](https://arXiv.org/abs/2112.10759) / [Code](https://github.com/genforce/volumegan) / [Project Page](https://genforce.github.io/volumegan/)
 - StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation <br>
-  [CVPR 2022](https://arXiv.org/abs/2112.11427) / [Code](https://github.com/royorel/StyleSDF)
+  [CVPR 2022](https://arXiv.org/abs/2112.11427) / [Code](https://github.com/royorel/StyleSDF) / [Project Page](https://stylesdf.github.io/)
 - GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation <br>
-  [CVPR 2022](https://arXiv.org/abs/2112.08867)
+  [CVPR 2022](https://arXiv.org/abs/2112.08867) / [Project Page](https://yudeng.github.io/GRAM/)
 - Campari: Camera-aware Decomposed Generative Neural Radiance Fields <br>
-  [3DV 2021](https://arXiv.org/abs/2103.17269)
+  [3DV 2021](https://arXiv.org/abs/2103.17269) / [Code](https://github.com/autonomousvision/campari)
 - CIPS-3D: A 3D-Aware Generator of GANs Based on Conditionally-Independent Pixel Synthesis <br>
   [arXiv 2021](https://arXiv.org/abs/2110.09788) / [Code](https://github.com/PeterouZh/CIPS-3D)
 - GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds <br>
-  [ICCV 2021](https://arXiv.org/abs/2104.07659) / [Code](https://github.com/NVlabs/GANcraft)
+  [ICCV 2021](https://arXiv.org/abs/2104.07659) / [Code](https://github.com/NVlabs/GANcraft) / [Project Page](https://nvlabs.github.io/GANcraft/)
 - Generative Occupancy Fields for 3D Surface-Aware Image Synthesis <br>
-  [NeurIPS 2021](https://arXiv.org/abs/2111.00969) / [Code](https://github.com/SheldonTsui/GOF_NeurIPS2021)
+  [NeurIPS 2021](https://arXiv.org/abs/2111.00969) / [Code](https://github.com/SheldonTsui/GOF_NeurIPS2021) / [Project Page](https://sheldontsui.github.io/projects/GOF)
 - 3D-Aware Semantic-Guided Generative Model for Human Synthesis <br>
   [arXiv 2021](https://arXiv.org/abs/2112.01422)
 
 ### Per-scene optimization with a discriminator
 
 - Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis <br>
-  [ICCV 2021](https://arXiv.org/abs/2104.00677) / [Code](https://github.com/codestella/putting-nerf-on-a-diet)
+  [ICCV 2021](https://arXiv.org/abs/2104.00677) / [Code](https://github.com/codestella/putting-nerf-on-a-diet) / [Project Page](https://ajayj.com/dietnerf/)
 - GNeRF: GAN-based Neural Radiance Field without Posed Camera <br>
   [ICCV 2021](https://arXiv.org/abs/2103.15606) / [Code](https://github.com/MQ66/gnerf)
 - RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs <br>
-  [CVPR 2022](https://arXiv.org/abs/2112.00724) / [Code](https://github.com/google-research/google-research/tree/master/regnerf)
+  [CVPR 2022](https://arXiv.org/abs/2112.00724) / [Code](https://github.com/google-research/google-research/tree/master/regnerf) / [Project Page](https://m-niemeyer.github.io/regnerf/)
 
 ### 3D editing
 
@@ -203,4 +203,4 @@
 ### Others
 
 - Visual Object Networks: Image Generation with Disentangled 3D Representation <br>
-  [NeurIPS 2018](https://arXiv.org/abs/1812.02725)
+  [NeurIPS 2018](https://arXiv.org/abs/1812.02725) / [Code](https://github.com/junyanz/VON) / [Project Page](http://von.csail.mit.edu/)
