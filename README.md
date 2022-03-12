@@ -33,8 +33,11 @@
 - Multiresolution tree networks for 3d point cloud processing, eccv 2018
 - Learning localized generative models for 3d point clouds via graph convolution, iclr 2019
 - A point set generation network for 3d object reconstruction from a single image, cvpr 2017
-- Adversarial autoen-coders for generating 3d point clouds, iclr 2020
+- Adversarial autoencoders for generating 3d point clouds, iclr 2020
 - Learning to generate dense point clouds with textures on multiple categories, wacv 2021
+- OctNet: Learning Deep 3D Representations at High Resolutions, CVPR 2017
+- Generating 3D Adversarial Point Clouds, CVPR 2019
+- Neural Style Transfer for Point Clouds, arxiv 2019
 
 #### Voxel Grids
 
@@ -47,6 +50,11 @@
 - Generative VoxelNet: learning energy-based models for 3D shape synthesis and analysis, tpami 2020
 - Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, arxiv 2021
 - DLGAN: Depth-Preserving Latent Generative Adversarial Network for 3D Reconstruction, tmm 2020
+- Shape completion using 3d-encoder-predictor cnns and shape synthesis, CVPR 2017
+- Scancomplete: Large-scale scene completion and semantic segmentation for 3d scans, CVPR 2018
+- Generative and discriminative voxel modeling with convolutional neural networks, arxiv 2016
+- Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs, ICCV 2017
+- Deep octree-based cnns with output-guided skip connections for 3d shape and scene completion, CVPR 2020
 
 #### Mesh
 
@@ -60,6 +68,7 @@
 - SurfGen: Adversarial 3D Shape Synthesis with Explicit Surface Discriminators, ICCV 2021
 - 3d shape generation with grid-based implicit functions, CVPR 2021
 - gDNA: Towards Generative Detailed Neural Avatars, CVPR 2022
+- Deformed implicit field: Modeling 3d shapes with learned dense correspondence, CVPR 2021
 
 #### Parametric surface
 
@@ -83,6 +92,7 @@
 ##### Explicit representation
 
 - [HoloGAN: Unsupervised learning of 3D representations from natural images](https://arxiv.org/abs/1904.01326), ICCV, 2019
+- Points2Pix: 3D Point-Cloud to Image Translation using conditional Generative Adversarial Networks, arxiv 2019
 
 ##### StyleGAN
 
