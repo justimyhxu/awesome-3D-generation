@@ -48,6 +48,11 @@
 - Adversarial autoencoders for generating 3d point clouds <br>
   [ICLR 2020](https://arxiv.org/abs/1811.07605) / [Code](https://github.com/MaciejZamorski/3d-AAE)
 
+### Energy-based Model
+- Generative PointNet: Deep Energy-Based Learning on Unordered Point Sets for
+3D Generation, Reconstruction and Classification <br>
+  [CVPR 2021](https://arxiv.org/abs/2004.01301) / [Code](https://github.com/fei960922/GPointNet) / [Project Page](http://www.stat.ucla.edu/~jxie/GPointNet/)
+
 ## Voxel Grids
 
 - Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling <br>
@@ -220,7 +225,7 @@
 - 3D-Aware Semantic-Guided Generative Model for Human Synthesis <br>
   [arXiv 2021](https://arXiv.org/abs/2112.01422)
 - A Generative Model for 3D Face Synthesis with HDRI Relighting <br>
-  [arXiv 2022]
+  [arXiv 2022](https://arxiv.org/abs/2201.04873)
 
 ### Per-scene optimization with a discriminator
 
