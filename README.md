@@ -87,6 +87,8 @@
   [SIGGRAPH Asia 2019](https://arxiv.org/abs/1908.04520) / [Project Page](http://geometrylearning.com/sdm-net/)
 - PolyGen: An Autoregressive Generative Model of 3D Meshes <br>
   [ICML 2020](https://arxiv.org/abs/2002.10880) / [Code](https://github.com/deepmind/deepmind-research/tree/master/polygen)
+- TM-NET: Deep Generative Networks for Textured Meshes <br>
+  [TOG 2021](https://arxiv.org/abs/2010.06217) / [Code](https://github.com/IGLICT/TM-NET) / [Project Page](http://geometrylearning.com/TM-NET/)
 
 ## Implicit function
 
