@@ -135,6 +135,8 @@
   [arXiv 2019](https://arXiv.org/abs/1901.09280)
 - BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images <br>
   [NeurIPS 2020](https://arXiv.org/abs/2002.08988) / [Code](https://github.com/thunguyenphuoc/BlockGAN)
+- Visual Object Networks: Image Generation with Disentangled 3D Representation <br>
+  [NeurIPS 2018](https://arXiv.org/abs/1812.02725) / [Code](https://github.com/junyanz/VON) / [Project Page](http://von.csail.mit.edu/)
 
 ### Image-space rendering
 
@@ -148,6 +150,38 @@
   [Computer Graphics Forum 2021](https://arXiv.org/abs/2006.10569) / [Project Page](http://geometry.cs.ucl.ac.uk/projects/2021/ngp/)
 - 3D-Aware Indoor Scene Synthesis with Depth Priors <br>
   [arXiv 2022](https://arXiv.org/abs/2202.08553) / [Code](https://github.com/VivianSZF/depthgan) / [Project Page](https://vivianszf.github.io/depthgan/)
+- M3D-VTON: A Monocular-to-3D Virtual Try-On Network <br>
+  [ICCV 2021](https://arxiv.org/abs/2108.05126) / [Code](https://github.com/fyviezhao/m3d-vton)
+- FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold <br>
+  [SIGGRAPH Asia 2021](https://arxiv.org/abs/2109.09378) / [Code](https://gitlab.inria.fr/fungraph/freestylegan) / [Project Page](https://repo-sam.inria.fr/fungraph/freestylegan/)
+- Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs <br>
+  [ICLR](https://arxiv.org/pdf/2011.00844.pdf) / [Code](https://github.com/XingangPan/GAN2Shape) / [Project Page](https://xingangpan.github.io/projects/GAN2Shape.html)
+- Interpreting the latent space of gans for semantic face editing <br>
+  [CVPR 2020](https://arxiv.org/abs/1907.10786) / [Code](https://github.com/genforce/interfacegan) / [Project Page](https://genforce.github.io/interfacegan/)
+- Closed-form factorization of latent semantics in gans <br>
+  [CVPR 2021](https://arxiv.org/abs/2007.06600) / [Code](https://github.com/genforce/sefa) / [Project Page](https://genforce.github.io/sefa/)
+- GANSpace: Discovering Interpretable GAN Controls <br>
+  [NeurIPS 2020](https://arxiv.org/abs/2004.02546) / [Code](https://github.com/harskish/ganspace)
+- StyleRig: Rigging StyleGAN for 3D Control over Portrait Images <br>
+  [CVPR 2020](https://arxiv.org/abs/2004.00121) / [Project Page](https://vcai.mpi-inf.mpg.de/projects/StyleRig/)
+- Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning <br>
+  [CVPR 2020](https://arxiv.org/abs/2004.11660) / [Code](https://github.com/microsoft/DiscoFaceGAN)
+- Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images <br>
+  [CVPR 2020](https://arxiv.org/abs/2003.08124) / [Code](https://github.com/Hangz-nju-cuhk/Rotate-and-Render)
+- A Style-Based Generator Architecture for Generative Adversarial Networks <br>
+  [CVPR 2019](https://arxiv.org/abs/1812.04948) / [Code](https://github.com/NVlabs/stylegan)
+- Analyzing and Improving the Image Quality of StyleGAN <br>
+  [CVPR 2020](https://arxiv.org/abs/1912.04958) / [Code](https://github.com/NVlabs/stylegan2)
+- Alias-Free Generative Adversarial Networks <br>
+  [NeurIPS 2021](https://arxiv.org/abs/2106.12423) / [Code](https://github.com/NVlabs/alias-free-gan) / [Project Page](https://nvlabs.github.io/stylegan3/)
+- Disentangled Controls for StyleGAN Image Generation <br>
+  [CVPR 2021](https://arxiv.org/abs/2011.12799) / [Code](https://github.com/betterze/StyleSpace)
+- Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN <br>
+  [TOG 2021](https://arxiv.org/abs/2109.06166) / [Code](https://github.com/BadourAlBahar/pose-with-style) / [Project Page](https://pose-with-style.github.io/)
+- Cross-Domain and Disentangled Face Manipulation with 3D Guidance <br>
+  [TVCG 2021](https://arxiv.org/abs/2104.11228) / [Code](https://github.com/cassiePython/cddfm3d) / [Project Page](https://cassiepython.github.io/cddfm3d/index)
+- Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering <br>
+  [ICLR 2021](https://arxiv.org/abs/2010.09125) / [Project Page](https://nv-tlabs.github.io/GANverse3D/)
 
 ### Implicit Function
 
@@ -199,8 +233,11 @@
   [arXiv 2021](https://arXiv.org/abs/2111.15490)
 - Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation <br>
   [CVPR 2022](https://arXiv.org/abs/2202.13162)
-
-### Others
-
-- Visual Object Networks: Image Generation with Disentangled 3D Representation <br>
-  [NeurIPS 2018](https://arXiv.org/abs/1812.02725) / [Code](https://github.com/junyanz/VON) / [Project Page](http://von.csail.mit.edu/)
+- HeadGAN: One-shot Neural Head Synthesis and Editing <br>
+  [ICCV 2021](https://arxiv.org/abs/2012.08261) / [Project Page](https://michaildoukas.github.io/HeadGAN/)
+- Editing Conditional Radiance Fields <br>
+  [ICCV 2021](http://editnerf.csail.mit.edu/paper.pdf) / [Code](https://github.com/stevliu/editnerf) / [Project Page](http://editnerf.csail.mit.edu/)
+- MoFaNeRF: Morphable Facial Neural Radiance Field <br>
+  [arXiv 2021](https://arxiv.org/abs/2112.02308) / [Code](https://github.com/zhuhao-nju/mofanerf)
+- CoNeRF: Controllable Neural Radiance Fields <br>
+  [CVPR 2022](https://arxiv.org/abs/2112.01983) / [Project Page](https://conerf.github.io/)
