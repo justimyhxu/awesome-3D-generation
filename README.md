@@ -6,7 +6,6 @@ This repository collects the studies on 3D generation, including both [3D shape 
 
 Overall, the paper collection is organized as follows. *If you find some work is missing, feel free to raise an issue or create a pull request. We appreciate contributions in any form.*
 
-- [Overview](#overview)
 - [3D Shape Generation](#3d-shape-generation)
   - [Point Cloud](#point-cloud)
   - [Voxel](#voxel)
