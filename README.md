@@ -219,6 +219,8 @@
   [NeurIPS 2021](https://arXiv.org/abs/2111.00969) / [Code](https://github.com/SheldonTsui/GOF_NeurIPS2021) / [Project Page](https://sheldontsui.github.io/projects/GOF)
 - 3D-Aware Semantic-Guided Generative Model for Human Synthesis <br>
   [arXiv 2021](https://arXiv.org/abs/2112.01422)
+- A Generative Model for 3D Face Synthesis with HDRI Relighting <br>
+  [arXiv 2022]
 
 ### Per-scene optimization with a discriminator
 
