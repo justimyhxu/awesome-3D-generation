@@ -85,6 +85,8 @@
 
 - Sdm-net: Deep generative network for structured deformable mesh <br>
   [SIGGRAPH Asia 2019](https://arxiv.org/abs/1908.04520) / [Project Page](http://geometrylearning.com/sdm-net/)
+- PolyGen: An Autoregressive Generative Model of 3D Meshes <br>
+  [ICML 2020](https://arxiv.org/abs/2002.10880) / [Code](https://github.com/deepmind/deepmind-research/tree/master/polygen)
 
 ## Implicit function
 
