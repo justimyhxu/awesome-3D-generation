@@ -194,7 +194,7 @@ We categorize the studies on 3D-aware image generation according to the represen
 - 3D-Aware Semantic-Guided Generative Model for Human Synthesis <br>
   [arXiv 2021](https://arXiv.org/abs/2112.01422)
 - FENeRF: Face Editing in Neural Radiance Fields <br>
-  [arXiv 2021](https://arXiv.org/abs/2111.15490)
+  [CVPR 2022](https://arXiv.org/abs/2111.15490)
 - StyleNeRF: A Style-Based 3D-Aware Generator for High-resolution Image Synthesis <br>
   [ICLR 2022](https://arXiv.org/abs/2110.08985) / [Code](https://github.com/facebookresearch/StyleNeRF) / [Project Page](http://jiataogu.me/style_nerf/)
 - StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation <br>
