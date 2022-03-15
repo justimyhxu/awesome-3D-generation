@@ -205,6 +205,8 @@ We categorize the studies on 3D-aware image generation according to the represen
   [arXiv 2022](https://arxiv.org/abs/2201.04873)
 - Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation <br>
   [CVPR 2022](https://arXiv.org/abs/2202.13162)
+- 3D-GIF: 3D-Controllable Object Generation via Implicit Factorized Representations <br>
+  [arXiv 2022](https://arxiv.org/abs/2203.06457)
 
 ### Hybrid Representation
 
