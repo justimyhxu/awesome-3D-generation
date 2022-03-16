@@ -47,8 +47,6 @@ We categorize the studies on 3D shape generation according to the representation
   [ECCV 2020](https://arxiv.org/abs/2007.05361) / [Code](https://github.com/fpthink/PDGN)
 - A Progressive Conditional Generative Adversarial Network for Generating Dense and Colored 3D Point Clouds <br>
   [3DV 2020](https://arxiv.org/abs/2010.05391) / [Code](https://github.com/robotic-vision-lab/Progressive-Conditional-Generative-Adversarial-Network)
-- SP-GAN: Sphere-Guided 3D Shape Generation and Manipulation <br>
-  [SIGGRAPH 2021](https://arxiv.org/abs/2108.04476) / [Code](https://github.com/liruihui/sp-gan)
 - Adversarial Autoencoders for Generating 3D Point Clouds <br>
   [ICLR 2020](https://arxiv.org/abs/1811.07605) / [Code](https://github.com/MaciejZamorski/3d-AAE)
 - Learning Gradient Fields for Shape Generation <br>
@@ -61,6 +59,8 @@ We categorize the studies on 3D shape generation according to the representation
   [WACV 2020](https://arxiv.org/abs/1810.05591) / [Code](https://github.com/syb7573330/PointGrow) / [Project Page](https://liuziwei7.github.io/projects/PointGrow)
 - MRGAN: MultiRooted 3D Shape Generation with Unsupervised Part Disentanglement <br>
   [ICCVW 2021](https://arxiv.org/abs/2007.12944)
+- SP-GAN: Sphere-Guided 3D Shape Generation and Manipulation <br>
+  [SIGGRAPH 2021](https://arxiv.org/abs/2108.04476) / [Code](https://github.com/liruihui/sp-gan)
 - Generative PointNet: Deep Energy-Based Learning on Unordered Point Sets for
 3D Generation, Reconstruction and Classification <br>
   [CVPR 2021](https://arxiv.org/abs/2004.01301) / [Code](https://github.com/fei960922/GPointNet) / [Project Page](http://www.stat.ucla.edu/~jxie/GPointNet/)
