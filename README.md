@@ -237,3 +237,5 @@ Besides explicitly learning a 3D generative model, there are also some attempts 
   [ICLR 2021](https://arxiv.org/abs/2010.09125) / [Project Page](https://nv-tlabs.github.io/GANverse3D/)
 - Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN <br>
   [TOG 2021](https://arxiv.org/abs/2109.06166) / [Code](https://github.com/BadourAlBahar/pose-with-style) / [Project Page](https://pose-with-style.github.io/)
+- SofGAN: A Portrait Image Generator with Dynamic Styling <br>
+  [TOG 2021](https://arxiv.org/abs/2007.03780) / [Code](https://github.com/apchenstu/sofgan) / [Project Page](https://apchenstu.github.io/sofgan/)
