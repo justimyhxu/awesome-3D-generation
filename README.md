@@ -207,6 +207,8 @@ We categorize the studies on 3D-aware image generation according to the represen
   [CVPR 2022](https://arXiv.org/abs/2202.13162)
 - 3D-GIF: 3D-Controllable Object Generation via Implicit Factorized Representations <br>
   [arXiv 2022](https://arxiv.org/abs/2203.06457)
+- Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks <br>
+  [ICLR 2022](https://openreview.net/forum?id=Czsdv-S4-w9) / [Code](https://github.com/sihyun-yu/digan) / [Project Page](https://sihyun-yu.github.io/digan/)
 
 ### Hybrid Representation
 
@@ -225,6 +227,10 @@ Besides explicitly learning a 3D generative model, there are also some attempts 
   [CVPR 2020](https://arxiv.org/abs/2004.00121) / [Project Page](https://vcai.mpi-inf.mpg.de/projects/StyleRig/)
 - Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning <br>
   [CVPR 2020](https://arxiv.org/abs/2004.11660) / [Code](https://github.com/microsoft/DiscoFaceGAN)
+- Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis <br>
+  [CVPR 2020](https://avg.is.tuebingen.mpg.de/publications/liao2020cvpr) / [Code](https://github.com/autonomousvision/controllable_image_synthesis)
+- DiscoFaceGAN: Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning <br>
+  [CVPR 2020](https://arxiv.org/pdf/2004.11660.pdf) / [Code](https://github.com/microsoft/DiscoFaceGAN)
 - FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold <br>
   [SIGGRAPH Asia 2021](https://arxiv.org/abs/2109.09378) / [Code](https://gitlab.inria.fr/fungraph/freestylegan) / [Project Page](https://repo-sam.inria.fr/fungraph/freestylegan/)
 - Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs <br>
@@ -237,3 +243,5 @@ Besides explicitly learning a 3D generative model, there are also some attempts 
   [ICLR 2021](https://arxiv.org/abs/2010.09125) / [Project Page](https://nv-tlabs.github.io/GANverse3D/)
 - Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN <br>
   [TOG 2021](https://arxiv.org/abs/2109.06166) / [Code](https://github.com/BadourAlBahar/pose-with-style) / [Project Page](https://pose-with-style.github.io/)
+- MOST-GAN: 3D Morphable StyleGAN for Disentangled Face Image Manipulation <br>
+  [AAAI 2022](https://arxiv.org/abs/2111.01048)
