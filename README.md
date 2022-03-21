@@ -91,6 +91,8 @@ We categorize the studies on 3D shape generation according to the representation
   [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_DECOR-GAN_3D_Shape_Detailization_by_Conditional_Refinement_CVPR_2021_paper.pdf) / [Code](https://github.com/czq142857/DECOR-GAN)
 - Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences <br>
   [arXiv 2021](https://arxiv.org/abs/2111.12480)
+- AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation <br>
+  [CVPR 2022](http://arxiv.org/abs/2203.09516) / [Project Page](https://yccyenchicheng.github.io/AutoSDF/) / [Code](https://github.com/yccyenchicheng/AutoSDF/)
 
 ### Mesh
 
