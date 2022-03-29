@@ -64,6 +64,8 @@ We categorize the studies on 3D shape generation according to the representation
 - Generative PointNet: Deep Energy-Based Learning on Unordered Point Sets for
 3D Generation, Reconstruction and Classification <br>
   [CVPR 2021](https://arxiv.org/abs/2004.01301) / [Code](https://github.com/fei960922/GPointNet) / [Project Page](http://www.stat.ucla.edu/~jxie/GPointNet/)
+- Diffusion Probabilistic Models for 3D Point Cloud Generation <br>
+  [CVPR 2021](https://arxiv.org/abs/2103.01458) / [Code](https://github.com/luost26/diffusion-point-cloud)
 
 ### Voxel
 
@@ -115,10 +117,10 @@ We categorize the studies on 3D shape generation according to the representation
   [ICCV 2021](https://arxiv.org/abs/2201.00112)
 - 3D Shape Generation with Grid-Based Implicit Functions <br>
   [CVPR 2021](https://arxiv.org/abs/2107.10607)
-- gDNA: Towards Generative Detailed Neural Avatars <br>
-  [CVPR 2022](https://arxiv.org/abs/2201.04123) / [Code](https://github.com/xuchen-ethz/gdna) / [Project Page](https://xuchen-ethz.github.io/gdna/)
 - Deformed Implicit Field: Modeling 3D shapes with Learned Dense Correspondence <br>
   [CVPR 2021](https://arxiv.org/abs/2011.13650) / [Code](https://github.com/microsoft/DIF-Net)
+- gDNA: Towards Generative Detailed Neural Avatars <br>
+  [CVPR 2022](https://arxiv.org/abs/2201.04123) / [Code](https://github.com/xuchen-ethz/gdna) / [Project Page](https://xuchen-ethz.github.io/gdna/)
 
 ### Parametric Surface
 
