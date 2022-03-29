@@ -211,8 +211,8 @@ We categorize the studies on 3D-aware image generation according to the represen
   [CVPR 2022](https://arXiv.org/abs/2202.13162)
 - 3D-GIF: 3D-Controllable Object Generation via Implicit Factorized Representations <br>
   [arXiv 2022](https://arxiv.org/abs/2203.06457)
-- Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks <br>
-  [ICLR 2022](https://openreview.net/forum?id=Czsdv-S4-w9) / [Code](https://github.com/sihyun-yu/digan) / [Project Page](https://sihyun-yu.github.io/digan/)
+- GIRAFFE HD: A High-Resolution 3D-aware Generative Model <br>
+  [CVPR 2022](https://arxiv.org/abs/2203.14954)
 
 ### Hybrid Representation
 
