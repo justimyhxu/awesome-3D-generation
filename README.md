@@ -179,6 +179,8 @@ We categorize the studies on 3D-aware image generation according to the represen
 
 - GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis <br>
   [NeurIPS 2020](https://arXiv.org/abs/2007.02442) / [Code](https://github.com/autonomousvision/graf) / [Project Page](https://autonomousvision.github.io/graf/)
+- NeRF-VAE: A Geometry Aware 3D Scene Generative Model <br>
+  [ICML 2021](https://arxiv.org/abs/2104.00587)
 - GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields <br>
   [CVPR 2021](https://arXiv.org/abs/2011.12100) / [Code](https://github.com/autonomousvision/giraffe) / [Project Page](https://m-niemeyer.github.io/project-pages/giraffe/index.html)
 - pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis <br>
