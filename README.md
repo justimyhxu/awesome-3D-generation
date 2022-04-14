@@ -215,6 +215,8 @@ We categorize the studies on 3D-aware image generation according to the represen
   [arXiv 2022](https://arxiv.org/abs/2203.06457)
 - GIRAFFE HD: A High-Resolution 3D-aware Generative Model <br>
   [CVPR 2022](https://arxiv.org/abs/2203.14954)
+- Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis <br>
+  [CVPR 2022](https://arxiv.org/abs/2204.06307)
 
 ### Hybrid Representation
 
