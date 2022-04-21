@@ -217,6 +217,8 @@ We categorize the studies on 3D-aware image generation according to the represen
   [CVPR 2022](https://arxiv.org/abs/2203.14954)
 - Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis <br>
   [CVPR 2022](https://arxiv.org/abs/2204.06307)
+- Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations <br>
+  [arXiv 2022](https://arxiv.org/abs/2204.08839) / [Code](https://github.com/nogu-atsu/ENARF-GAN) / [Project Page](https://nogu-atsu.github.io/ENARF-GAN/)
 
 ### Hybrid Representation
 
