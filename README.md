@@ -110,13 +110,13 @@ We categorize the studies on 3D shape generation according to the representation
 - Learning Implicit Fields for Generative Shape Modeling <br>
   [CVPR 2019](https://arxiv.org/abs/1812.02822) / [Code](https://github.com/czq142857/implicit-decoder) / [Project Page](https://www.sfu.ca/~zhiqinc/imgan/Readme.html)
 - Adversarial Generation of Continuous Implicit Shape Representations <br>
-  [arXiv 2020](https://arxiv.org/abs/2002.00349) / [Code](https://github.com/marian42/shapegan)
+  [EG 2020](https://arxiv.org/abs/2002.00349) / [Code](https://github.com/marian42/shapegan)
 - DualSDF: Semantic Shape Manipulation using a Two-Level Representation <br>
   [CVPR 2020](https://arxiv.org/abs/2004.02869) / [Code](https://github.com/zekunhao1995/DualSDF) / [Project Page](https://www.cs.cornell.edu/~hadarelor/dualsdf/)
 - SurfGen: Adversarial 3D Shape Synthesis with Explicit Surface Discriminators <br>
   [ICCV 2021](https://arxiv.org/abs/2201.00112)
 - 3D Shape Generation with Grid-Based Implicit Functions <br>
-  [CVPR 2021](https://arxiv.org/abs/2107.10607)
+  [CVPR 2021](https://arxiv.org/abs/2107.10607) / [Code](https://www.graphics.rwth-aachen.de/person/231/)
 - Deformed Implicit Field: Modeling 3D shapes with Learned Dense Correspondence <br>
   [CVPR 2021](https://arxiv.org/abs/2011.13650) / [Code](https://github.com/microsoft/DIF-Net)
 - gDNA: Towards Generative Detailed Neural Avatars <br>
@@ -219,6 +219,10 @@ We categorize the studies on 3D-aware image generation according to the represen
   [CVPR 2022](https://arxiv.org/abs/2204.06307)
 - Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations <br>
   [arXiv 2022](https://arxiv.org/abs/2204.08839) / [Code](https://github.com/nogu-atsu/ENARF-GAN) / [Project Page](https://nogu-atsu.github.io/ENARF-GAN/)
+- Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images <br>
+  [CVPR 2022](https://arxiv.org/abs/2203.15926)
+- IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis <br>
+  [arXiv 2022](https://arxiv.org/abs/2205.15517) / [Code](https://github.com/MrTornado24/IDE-3D) / [Project Page](https://mrtornado24.github.io/IDE-3D/)
 
 ### Hybrid Representation
 
