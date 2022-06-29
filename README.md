@@ -69,14 +69,10 @@ We categorize the studies on 3D shape generation according to the representation
 
 ### Voxel
 
-- 3d Shapenets: A Deep Representation for Volumetric Shapes <br>
-  [CVPR 2015](https://arxiv.org/abs/1406.5670) / [Code](https://github.com/zhirongw/3DShapeNets) / [Project Page](http://3dshapenets.cs.princeton.edu/)
 - Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling <br>
   [NeurIPS 2016](https://arXiv.org/abs/1610.07584) / [Code](https://github.com/zck119/3dgan-release) / [Project Page](http://3dgan.csail.mit.edu/)
 - Generative and Discriminative Voxel Modeling with Convolutional Neural Networks <br>
   [arXiv 2016](https://arxiv.org/abs/1608.04236) / [Code](https://github.com/ajbrock/Generative-and-Discriminative-Voxel-Modeling)
-- Octree Generating Networks: Efficient Convolutional Architectures for High-Resolution 3D Outputs <br>
-  [ICCV 2017](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tatarchenko_Octree_Generating_Networks_ICCV_2017_paper.pdf) / [Code](https://github.com/lmb-freiburg/ogn)
 - SAGNet: Structure-aware Generative Network for 3D-Shape Modeling <br>
   [SIGGRAPH 2019](https://dilincv.github.io/papers/SAGNet_sig2019.pdf) / [Code](https://github.com/zhijieW94/SAGNet) / [Project Page](https://vcc.tech/research/2019/SAGnet/)
 - Generalized Autoencoder for Volumetric Shape Generation <br>
@@ -87,10 +83,6 @@ We categorize the studies on 3D shape generation according to the representation
   [AAAI 2020](https://arxiv.org/abs/1906.06693)
 - Generative VoxelNet: Learning Energy-Based Models for 3D Shape Synthesis and Analysis <br>
   [TPAMI 2020](http://www.stat.ucla.edu/~jxie/3DDescriptorNet/3DDescriptorNet_file/doc/3DDescriptorNet.pdf) / [Code](https://github.com/jianwen-xie/3DDescriptorNet) / [Project Page](http://www.stat.ucla.edu/~jxie/3DDescriptorNet/3DDescriptorNet.html)
-- DLGAN: Depth-Preserving Latent Generative Adversarial Network for 3D Reconstruction <br>
-  [TMM 2020](https://ieeexplore.ieee.org/document/9174748)
-- DECOR-GAN: 3D Shape Detailization by Conditional Refinement <br>
-  [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_DECOR-GAN_3D_Shape_Detailization_by_Conditional_Refinement_CVPR_2021_paper.pdf) / [Code](https://github.com/czq142857/DECOR-GAN)
 - Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences <br>
   [arXiv 2021](https://arxiv.org/abs/2111.12480)
 - AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation <br>
