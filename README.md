@@ -223,6 +223,12 @@ We categorize the studies on 3D-aware image generation according to the represen
   [CVPR 2022](https://arxiv.org/abs/2203.15926)
 - IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis <br>
   [arXiv 2022](https://arxiv.org/abs/2205.15517) / [Code](https://github.com/MrTornado24/IDE-3D) / [Project Page](https://mrtornado24.github.io/IDE-3D/)
+- GRAM-HD: 3D-Consistent Image Generation at High Resolution with Generative Radiance Manifolds <br>
+  [arXiv 2022](https://arxiv.org/abs/2206.07255) / [Project Page](https://jeffreyxiang.github.io/GRAM-HD/)
+- VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids <br>
+  [arXiv 2022](https://arxiv.org/abs/2206.07695)
+- EpiGRAF: Rethinking training of 3D GANs <br>
+  [arXiv 2022](https://arxiv.org/abs/2206.10535) / [Project Page](https://universome.github.io/epigraf)
 
 ### Hybrid Representation
 
