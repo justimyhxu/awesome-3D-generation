@@ -13,7 +13,6 @@ Overall, the paper collection is organized as follows. *If you find some work is
   - [Implicit Function](#implicit-function)
   - [Parametric Surface](#parametric-surface)
   - [Primitive Shape](#primitive-shape)
-  - [Hybrid Representation](#hybrid-representation)
   - [Program](#program)
 - [3D-aware Image Generation](#3d-aware-image-generation)
   - [Point Cloud](#point-cloud-1)
@@ -123,13 +122,6 @@ We categorize the studies on 3D shape generation according to the representation
 
 - Physically-Aware Generative Network for 3D Shape Modeling <br>
   [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Mezghanni_Physically-Aware_Generative_Network_for_3D_Shape_Modeling_CVPR_2021_paper.html)
-
-### Hybrid Representation
-
-- Coupling Explicit and Implicit Surface Representations for Generative 3D Modeling <br>
-  [ECCV 2020](https://arxiv.org/abs/2007.10294)
-- Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis <br>
-  [NeurIPS 2021](https://arxiv.org/abs/2111.04276) / [Project Page](https://nv-tlabs.github.io/DMTet/)
 
 ### Program
 
