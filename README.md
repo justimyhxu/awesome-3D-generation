@@ -10,7 +10,7 @@ Overall, the paper collection is organized as follows. *If you find some work is
   - [Point Cloud](#point-cloud)
   - [Voxel](#voxel)
   - [Mesh](#mesh)
-  - [Implicit Function](#implicit-function)
+  - [Neural Field](#neural-field)
   - [Parametric Surface](#parametric-surface)
   - [Primitive Shape](#primitive-shape)
   - [Program](#program)
@@ -18,8 +18,8 @@ Overall, the paper collection is organized as follows. *If you find some work is
   - [Point Cloud](#point-cloud-1)
   - [Voxel](#voxel-1)
   - [Depth](#depth)
-  - [Implicit Function](#implicit-function-1)
-  - [Hybrid Representation](#hybrid-representation-1)
+  - [Neural Field](#neural-field-1)
+  - [Hybrid Representation](#hybrid-representation)
 - [3D Control of 2D Generative Models](#3d-control-of-2d-generative-models)
 
 ## 3D Shape Generation
@@ -96,7 +96,7 @@ We categorize the studies on 3D shape generation according to the representation
 - TM-NET: Deep Generative Networks for Textured Meshes <br>
   [TOG 2021](https://arxiv.org/abs/2010.06217) / [Code](https://github.com/IGLICT/TM-NET) / [Project Page](http://geometrylearning.com/TM-NET/)
 
-### Implicit Function
+### Neural Field
 
 - Learning Implicit Fields for Generative Shape Modeling <br>
   [CVPR 2019](https://arxiv.org/abs/1812.02822) / [Code](https://github.com/czq142857/implicit-decoder) / [Project Page](https://www.sfu.ca/~zhiqinc/imgan/Readme.html)
@@ -112,6 +112,8 @@ We categorize the studies on 3D shape generation according to the representation
   [CVPR 2021](https://arxiv.org/abs/2011.13650) / [Code](https://github.com/microsoft/DIF-Net)
 - gDNA: Towards Generative Detailed Neural Avatars <br>
   [CVPR 2022](https://arxiv.org/abs/2201.04123) / [Code](https://github.com/xuchen-ethz/gdna) / [Project Page](https://xuchen-ethz.github.io/gdna/)
+- ShapeCrafter: A Recursive Text-Conditioned 3D Shape Generation Model <br>
+  [arXiv 2022](https://arxiv.org/abs/2207.09446)
 
 ### Parametric Surface
 
@@ -159,7 +161,7 @@ We categorize the studies on 3D-aware image generation according to the represen
 - 3D-Aware Indoor Scene Synthesis with Depth Priors <br>
   [arXiv 2022](https://arXiv.org/abs/2202.08553) / [Code](https://github.com/VivianSZF/depthgan) / [Project Page](https://vivianszf.github.io/depthgan/)
 
-### Implicit Function
+### Neural Field
 
 - GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis <br>
   [NeurIPS 2020](https://arXiv.org/abs/2007.02442) / [Code](https://github.com/autonomousvision/graf) / [Project Page](https://autonomousvision.github.io/graf/)
