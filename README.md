@@ -184,7 +184,7 @@ We categorize the studies on 3D-aware image generation according to the represen
 - Generative Occupancy Fields for 3D Surface-Aware Image Synthesis <br>
   [NeurIPS 2021](https://arXiv.org/abs/2111.00969) / [Code](https://github.com/SheldonTsui/GOF_NeurIPS2021) / [Project Page](https://sheldontsui.github.io/projects/GOF)
 - 3D-Aware Semantic-Guided Generative Model for Human Synthesis <br>
-  [arXiv 2021](https://arXiv.org/abs/2112.01422)
+  [ECCV 2022](https://arXiv.org/abs/2112.01422) / [Code](https://github.com/zhangqianhui/3DSGAN) 
 - FENeRF: Face Editing in Neural Radiance Fields <br>
   [CVPR 2022](https://arXiv.org/abs/2111.15490)
 - StyleNeRF: A Style-Based 3D-Aware Generator for High-resolution Image Synthesis <br>
