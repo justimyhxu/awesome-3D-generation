@@ -215,6 +215,8 @@ We categorize the studies on 3D-aware image generation according to the represen
   [arXiv 2022](https://arxiv.org/abs/2206.07255) / [Project Page](https://jeffreyxiang.github.io/GRAM-HD/)
 - EpiGRAF: Rethinking training of 3D GANs <br>
   [arXiv 2022](https://arxiv.org/abs/2206.10535) / [Project Page](https://universome.github.io/epigraf)
+ - AvatarGen: a 3D Generative Model for Animatable Human Avatars <br>
+  [arXiv 2022](https://arxiv.org/abs/2208.00561) / [Code](https://github.com/jfzhang95/AvatarGen)
 
 ### Hybrid Representation
 
