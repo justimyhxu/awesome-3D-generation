@@ -11,7 +11,6 @@ Overall, the paper collection is organized as follows. *If you find some work is
   - [Voxel](#voxel)
   - [Mesh](#mesh)
   - [Neural Field](#neural-field)
-  - [Parametric Surface](#parametric-surface)
   - [Primitive Shape](#primitive-shape)
   - [Program](#program)
 - [3D-aware Image Generation](#3d-aware-image-generation)
@@ -95,6 +94,8 @@ We categorize the studies on 3D shape generation according to the representation
   [ICML 2020](https://arxiv.org/abs/2002.10880) / [Code](https://github.com/deepmind/deepmind-research/tree/master/polygen)
 - TM-NET: Deep Generative Networks for Textured Meshes <br>
   [TOG 2021](https://arxiv.org/abs/2010.06217) / [Code](https://github.com/IGLICT/TM-NET) / [Project Page](http://geometrylearning.com/TM-NET/)
+- Multi-Chart Generative Surface Modeling <br>
+  [SIGGRAPH Asia 2018](https://arxiv.org/abs/1806.02143) / [Code](https://github.com/helibenhamu/multichart3dgans)
 
 ### Neural Field
 
@@ -114,11 +115,6 @@ We categorize the studies on 3D shape generation according to the representation
   [CVPR 2022](https://arxiv.org/abs/2201.04123) / [Code](https://github.com/xuchen-ethz/gdna) / [Project Page](https://xuchen-ethz.github.io/gdna/)
 - ShapeCrafter: A Recursive Text-Conditioned 3D Shape Generation Model <br>
   [arXiv 2022](https://arxiv.org/abs/2207.09446)
-
-### Parametric Surface
-
-- Multi-Chart Generative Surface Modeling <br>
-  [SIGGRAPH Asia 2018](https://arxiv.org/abs/1806.02143) / [Code](https://github.com/helibenhamu/multichart3dgans)
 
 ### Primitive Shape
 
