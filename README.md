@@ -11,7 +11,6 @@ Overall, the paper collection is organized as follows. *If you find some work is
   - [Voxel](#voxel)
   - [Mesh](#mesh)
   - [Neural Field](#neural-field)
-  - [Primitive Shape](#primitive-shape)
   - [Program](#program)
 - [3D-aware Image Generation](#3d-aware-image-generation)
   - [Point Cloud](#point-cloud-1)
@@ -105,6 +104,8 @@ We categorize the studies on 3D shape generation according to the representation
   [EG 2020](https://arxiv.org/abs/2002.00349) / [Code](https://github.com/marian42/shapegan)
 - DualSDF: Semantic Shape Manipulation using a Two-Level Representation <br>
   [CVPR 2020](https://arxiv.org/abs/2004.02869) / [Code](https://github.com/zekunhao1995/DualSDF) / [Project Page](https://www.cs.cornell.edu/~hadarelor/dualsdf/)
+- Physically-Aware Generative Network for 3D Shape Modeling <br>
+  [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Mezghanni_Physically-Aware_Generative_Network_for_3D_Shape_Modeling_CVPR_2021_paper.html)
 - SurfGen: Adversarial 3D Shape Synthesis with Explicit Surface Discriminators <br>
   [ICCV 2021](https://arxiv.org/abs/2201.00112)
 - 3D Shape Generation with Grid-Based Implicit Functions <br>
@@ -115,11 +116,6 @@ We categorize the studies on 3D shape generation according to the representation
   [CVPR 2022](https://arxiv.org/abs/2201.04123) / [Code](https://github.com/xuchen-ethz/gdna) / [Project Page](https://xuchen-ethz.github.io/gdna/)
 - ShapeCrafter: A Recursive Text-Conditioned 3D Shape Generation Model <br>
   [arXiv 2022](https://arxiv.org/abs/2207.09446)
-
-### Primitive Shape
-
-- Physically-Aware Generative Network for 3D Shape Modeling <br>
-  [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Mezghanni_Physically-Aware_Generative_Network_for_3D_Shape_Modeling_CVPR_2021_paper.html)
 
 ### Program
 
