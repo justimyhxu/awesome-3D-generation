@@ -116,6 +116,8 @@ We categorize the studies on 3D shape generation according to the representation
   [CVPR 2022](https://arxiv.org/abs/2201.04123) / [Code](https://github.com/xuchen-ethz/gdna) / [Project Page](https://xuchen-ethz.github.io/gdna/)
 - ShapeCrafter: A Recursive Text-Conditioned 3D Shape Generation Model <br>
   [arXiv 2022](https://arxiv.org/abs/2207.09446)
+- Learning to Generate 3D Shapes from a Single Example <br>
+  [CVPR 2019](https://arxiv.org/abs/2208.02946) / [Code](https://github.com/ChrisWu1997/SingleShapeGen) / [Project Page](http://www.cs.columbia.edu/cg/SingleShapeGen/)
 
 ### Program
 
