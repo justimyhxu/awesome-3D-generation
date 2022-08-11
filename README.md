@@ -150,8 +150,6 @@ We categorize the studies on 3D-aware image generation according to the represen
 
 - Generative Image Modeling using Style and Structure Adversarial Networks <br>
   [ECCV 2016](https://arXiv.org/abs/1603.05631) / [Code](https://github.com/xiaolonw/ss-gan)
-- Geometric Image Synthesis <br>
-  [ACCV 2018](https://arXiv.org/abs/1809.04696)
 - RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis <br>
   [ICLR 2020](https://arXiv.org/abs/1909.12573) / [Code](https://github.com/nogu-atsu/RGBD-GAN)
 - 3D-Aware Indoor Scene Synthesis with Depth Priors <br>
