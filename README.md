@@ -63,6 +63,8 @@ We categorize the studies on 3D shape generation according to the representation
   [CVPR 2021](https://arxiv.org/abs/2004.01301) / [Code](https://github.com/fei960922/GPointNet) / [Project Page](http://www.stat.ucla.edu/~jxie/GPointNet/)
 - Diffusion Probabilistic Models for 3D Point Cloud Generation <br>
   [CVPR 2021](https://arxiv.org/abs/2103.01458) / [Code](https://github.com/luost26/diffusion-point-cloud)
+- ManiFlow: Implicitly Representing Manifolds with Normalizing Flows <br>
+  [3DV 2022](https://arxiv.org/abs/2208.08932)
 
 ### Voxel
 
