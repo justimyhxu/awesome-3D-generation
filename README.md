@@ -130,11 +130,6 @@ We categorize the studies on 3D shape generation according to the representation
 
 We categorize the studies on 3D-aware image generation according to the representation used.
 
-### Point Cloud
-
-- Points2Pix: 3D Point-Cloud to Image Translation using conditional Generative Adversarial Networks <br>
-  [arXiv 2019](https://arXiv.org/abs/1901.09280)
-
 ### Voxel
 
 - Visual Object Networks: Image Generation with Disentangled 3D Representation <br>
