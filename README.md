@@ -13,7 +13,6 @@ Overall, the paper collection is organized as follows. *If you find some work is
   - [Neural Field](#neural-field)
   - [Program](#program)
 - [3D-aware Image Generation](#3d-aware-image-generation)
-  - [Point Cloud](#point-cloud-1)
   - [Voxel](#voxel-1)
   - [Depth](#depth)
   - [Neural Field](#neural-field-1)
