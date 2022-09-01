@@ -184,7 +184,7 @@ We categorize the studies on 3D-aware image generation according to the represen
 - GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation <br>
   [CVPR 2022](https://arXiv.org/abs/2112.08867) / [Code](https://github.com/microsoft/GRAM) / [Project Page](https://yudeng.github.io/GRAM/)
 - A Generative Model for 3D Face Synthesis with HDRI Relighting <br>
-  [arXiv 2022](https://arxiv.org/abs/2201.04873)
+  [arXiv 2022](https://arxiv.org/abs/2201.04873) / [Code](https://github.com/google/volux-gan) / [Project page](https://augmentedperception.github.io/voluxgan/)
 - Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation <br>
   [CVPR 2022](https://arXiv.org/abs/2202.13162) / [Code](https://github.com/primecai/Pix2NeRF)
 - 3D-GIF: 3D-Controllable Object Generation via Implicit Factorized Representations <br>
