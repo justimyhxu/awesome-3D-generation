@@ -176,33 +176,33 @@ We categorize the studies on 3D-aware image generation according to the represen
 - 3D-Aware Semantic-Guided Generative Model for Human Synthesis <br>
   [ECCV 2022](https://arXiv.org/abs/2112.01422) / [Code](https://github.com/zhangqianhui/3DSGAN) 
 - FENeRF: Face Editing in Neural Radiance Fields <br>
-  [CVPR 2022](https://arXiv.org/abs/2111.15490)
+  [CVPR 2022](https://arXiv.org/abs/2111.15490) / [Code](https://github.com/MrTornado24/FENeRF) / [Project Page](https://mrtornado24.github.io/FENeRF/)
 - StyleNeRF: A Style-Based 3D-Aware Generator for High-resolution Image Synthesis <br>
   [ICLR 2022](https://arXiv.org/abs/2110.08985) / [Code](https://github.com/facebookresearch/StyleNeRF) / [Project Page](http://jiataogu.me/style_nerf/)
 - StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation <br>
   [CVPR 2022](https://arXiv.org/abs/2112.11427) / [Code](https://github.com/royorel/StyleSDF) / [Project Page](https://stylesdf.github.io/)
 - GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation <br>
-  [CVPR 2022](https://arXiv.org/abs/2112.08867) / [Project Page](https://yudeng.github.io/GRAM/)
+  [CVPR 2022](https://arXiv.org/abs/2112.08867) / [Code](https://github.com/microsoft/GRAM) / [Project Page](https://yudeng.github.io/GRAM/)
 - A Generative Model for 3D Face Synthesis with HDRI Relighting <br>
   [arXiv 2022](https://arxiv.org/abs/2201.04873)
 - Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation <br>
-  [CVPR 2022](https://arXiv.org/abs/2202.13162)
+  [CVPR 2022](https://arXiv.org/abs/2202.13162) / [Code](https://github.com/primecai/Pix2NeRF)
 - 3D-GIF: 3D-Controllable Object Generation via Implicit Factorized Representations <br>
   [arXiv 2022](https://arxiv.org/abs/2203.06457)
 - GIRAFFE HD: A High-Resolution 3D-aware Generative Model <br>
-  [CVPR 2022](https://arxiv.org/abs/2203.14954)
+  [CVPR 2022](https://arxiv.org/abs/2203.14954) / [Code](https://github.com/AustinXY/GIRAFFEHD) / [Project page](https://austinxy.github.io/project-pages/giraffehd/)
 - Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis <br>
-  [CVPR 2022](https://arxiv.org/abs/2204.06307)
+  [CVPR 2022](https://arxiv.org/abs/2204.06307) / [Code](https://github.com/Xuanmeng-Zhang/MVCGAN)
 - Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations <br>
   [arXiv 2022](https://arxiv.org/abs/2204.08839) / [Code](https://github.com/nogu-atsu/ENARF-GAN) / [Project Page](https://nogu-atsu.github.io/ENARF-GAN/)
 - Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images <br>
-  [CVPR 2022](https://arxiv.org/abs/2203.15926)
+  [CVPR 2022](https://arxiv.org/abs/2203.15926) / [Project page](https://vcai.mpi-inf.mpg.de/projects/D3D/)
 - IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis <br>
   [arXiv 2022](https://arxiv.org/abs/2205.15517) / [Code](https://github.com/MrTornado24/IDE-3D) / [Project Page](https://mrtornado24.github.io/IDE-3D/)
 - GRAM-HD: 3D-Consistent Image Generation at High Resolution with Generative Radiance Manifolds <br>
   [arXiv 2022](https://arxiv.org/abs/2206.07255) / [Project Page](https://jeffreyxiang.github.io/GRAM-HD/)
 - EpiGRAF: Rethinking training of 3D GANs <br>
-  [arXiv 2022](https://arxiv.org/abs/2206.10535) / [Project Page](https://universome.github.io/epigraf)
+  [arXiv 2022](https://arxiv.org/abs/2206.10535) / [Code](https://github.com/universome/epigraf) / [Project Page](https://universome.github.io/epigraf)
  - AvatarGen: a 3D Generative Model for Animatable Human Avatars <br>
   [arXiv 2022](https://arxiv.org/abs/2208.00561) / [Code](https://github.com/jfzhang95/AvatarGen)
 
