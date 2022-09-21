@@ -243,3 +243,9 @@ Besides explicitly learning a 3D generative model, there are also some attempts 
   [TOG 2021](https://arxiv.org/abs/2007.03780) / [Code](https://github.com/apchenstu/sofgan) / [Project Page](https://apchenstu.github.io/sofgan/)
 - MOST-GAN: 3D Morphable StyleGAN for Disentangled Face Image Manipulation <br>
   [AAAI 2022](https://arxiv.org/abs/2111.01048)
+- HeadNeRF: A Real-time NeRF-based Parametric Head Model <br>
+  [CVPR 2022](https://arxiv.org/abs/2112.05637) / [Code](https://github.com/CrisHY1995/headnerf) / [Project Page](https://hy1995.top/HeadNeRF-Project/)
+- cGOF: Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields <br>
+  [NeurIPS 2022](https://arxiv.org/abs/2206.08361) / [Code](https://github.com/KeqiangSun/cGOF) / [Project Page](https://keqiangsun.github.io/projects/cgof/)
+- GAN2X: Non-Lambertian Inverse Rendering of Image GANs <br>
+  [3DV 2022](https://arxiv.org/abs/2206.09244) / [Project Page](https://people.mpi-inf.mpg.de/~xpan/GAN2X/)
