@@ -214,6 +214,8 @@ We categorize the studies on 3D-aware image generation according to the represen
   [CVPR 2022](https://arXiv.org/abs/2112.10759) / [Code](https://github.com/genforce/volumegan) / [Project Page](https://genforce.github.io/volumegan/)
 - Efficient Geometry-aware 3D Generative Adversarial Networks <br>
   [CVPR 2022](https://arXiv.org/abs/2112.07945) / [Code](https://github.com/NVlabs/eg3d) / [Project Page](https://matthew-a-chan.github.io/EG3D/)
+- GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images <br>
+  [NeurIPS 2022](https://nv-tlabs.github.io/GET3D/assets/paper.pdf) / [Code](https://github.com/nv-tlabs/GET3D) / [Project Page](https://nv-tlabs.github.io/GET3D/)
 
 ## 3D Control of 2D Generative Models
 
