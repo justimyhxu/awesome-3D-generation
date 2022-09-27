@@ -205,6 +205,8 @@ We categorize the studies on 3D-aware image generation according to the represen
   [arXiv 2022](https://arxiv.org/abs/2206.10535) / [Code](https://github.com/universome/epigraf) / [Project Page](https://universome.github.io/epigraf)
  - AvatarGen: a 3D Generative Model for Animatable Human Avatars <br>
   [arXiv 2022](https://arxiv.org/abs/2208.00561) / [Code](https://github.com/jfzhang95/AvatarGen)
+- cGOF: Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields <br>
+  [NeurIPS 2022](https://arxiv.org/abs/2206.08361) / [Code](https://github.com/KeqiangSun/cGOF) / [Project Page](https://keqiangsun.github.io/projects/cgof/)
 
 ### Hybrid Representation
 
@@ -245,7 +247,5 @@ Besides explicitly learning a 3D generative model, there are also some attempts 
   [AAAI 2022](https://arxiv.org/abs/2111.01048)
 - HeadNeRF: A Real-time NeRF-based Parametric Head Model <br>
   [CVPR 2022](https://arxiv.org/abs/2112.05637) / [Code](https://github.com/CrisHY1995/headnerf) / [Project Page](https://hy1995.top/HeadNeRF-Project/)
-- cGOF: Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields <br>
-  [NeurIPS 2022](https://arxiv.org/abs/2206.08361) / [Code](https://github.com/KeqiangSun/cGOF) / [Project Page](https://keqiangsun.github.io/projects/cgof/)
 - GAN2X: Non-Lambertian Inverse Rendering of Image GANs <br>
   [3DV 2022](https://arxiv.org/abs/2206.09244) / [Project Page](https://people.mpi-inf.mpg.de/~xpan/GAN2X/)
