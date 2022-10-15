@@ -207,6 +207,8 @@ We categorize the studies on 3D-aware image generation according to the represen
   [arXiv 2022](https://arxiv.org/abs/2208.00561) / [Code](https://github.com/jfzhang95/AvatarGen)
 - cGOF: Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields <br>
   [NeurIPS 2022](https://arxiv.org/abs/2206.08361) / [Code](https://github.com/KeqiangSun/cGOF) / [Project Page](https://keqiangsun.github.io/projects/cgof/)
+- Improving 3D-aware Image Synthesis with A Geometry-aware Discriminator <br>
+  [NeurIPS 2022](https://arxiv.org/abs/2209.15637) / [Code](https://github.com/VivianSZF/geod) / [Project Page](https://vivianszf.github.io/geod)
 
 ### Hybrid Representation
 
