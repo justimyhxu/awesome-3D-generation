@@ -1,5 +1,12 @@
 # Awesome 3D Generation
 
+*News*: We provide a survey, [*Deep Generative Models on 3D Representations: A Survey*](https://arxiv.org/abs/2210.15663), to help the community track the evolution of this field.
+
+> **Deep Generative Models on 3D Representations: A Survey** <br>
+> Zifan Shi*, Sida Peng*, Yinghao Xu*, Yiyi Liao, Yujun Shen<br>
+> *https://arxiv.org/abs/2210.15663*<br>
+> (* denotes equal contribution)
+
 ## Overview
 
 This repository collects the studies on 3D generation, including both [3D shape generation](#3d-shape-generation) and [3D-aware image generation](#3d-aware-image-generation). Different from 3D reconstruction, which focuses on per-instance recovery (*i.e.*, the data already exists in the real world), 3D generation targets learning the real distribution and hence allows sampling new data.
