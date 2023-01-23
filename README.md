@@ -1,6 +1,6 @@
 # Awesome 3D Generation
 
-*News*: We provide a survey, [*Deep Generative Models on 3D Representations: A Survey*](https://arxiv.org/abs/2210.15663), to help the community track the evolution of this field.
+*News*: We provide a survey, [*Deep Generative Models on 3D Representations: A Survey*](https://arxiv.org/abs/2210.15663), to help the community track the evolution of this field.3
 
 > **Deep Generative Models on 3D Representations: A Survey** <br>
 > Zifan Shi*, Sida Peng*, Yinghao Xu*, Yiyi Liao, Yujun Shen<br>
@@ -69,8 +69,13 @@ We categorize the studies on 3D shape generation according to the representation
   [CVPR 2021](https://arxiv.org/abs/2004.01301) / [Code](https://github.com/fei960922/GPointNet) / [Project Page](http://www.stat.ucla.edu/~jxie/GPointNet/)
 - Diffusion Probabilistic Models for 3D Point Cloud Generation <br>
   [CVPR 2021](https://arxiv.org/abs/2103.01458) / [Code](https://github.com/luost26/diffusion-point-cloud)
+- 3D Shape Generation and Completion through Point-Voxel Diffusion <br>
+  [ICCV 2021](https://arxiv.org/abs/2104.03670) / [Code](https://github.com/alexzhou907/PVD) / [Project Page](https://alexzhou907.github.io/pvd)
 - ManiFlow: Implicitly Representing Manifolds with Normalizing Flows <br>
   [3DV 2022](https://arxiv.org/abs/2208.08932)
+- LION: Latent Point Diffusion Models for 3D Shape Generation <br>
+  [NeurIPS 2022](https://arxiv.org/abs/2210.06978) / [Code](https://github.com/nv-tlabs/LION) / [Project Page](https://nv-tlabs.github.io/LION/)
+
 
 ### Voxel
 
@@ -126,6 +131,8 @@ We categorize the studies on 3D shape generation according to the representation
   [arXiv 2022](https://arxiv.org/abs/2207.09446)
 - Learning to Generate 3D Shapes from a Single Example <br>
   [arXiv 2022](https://arxiv.org/abs/2208.02946) / [Code](https://github.com/ChrisWu1997/SingleShapeGen) / [Project Page](http://www.cs.columbia.edu/cg/SingleShapeGen/)
+- 3D-LDM: Neural Implicit 3D Shape Generation with Latent Diffusion Models <br>
+  [arXiv 2022](https://arxiv.org/abs/2212.00842)
 
 ### Program
 
@@ -147,7 +154,7 @@ We categorize the studies on 3D-aware image generation according to the represen
 - Towards a Neural Graphics Pipeline for Controllable Image Generation <br>
   [Computer Graphics Forum 2021](https://arXiv.org/abs/2006.10569) / [Project Page](http://geometry.cs.ucl.ac.uk/projects/2021/ngp/)
 - VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids <br>
-  [arXiv 2022](https://arxiv.org/abs/2206.07695)
+  [NeurIPS 2022](https://arxiv.org/abs/2206.07695)
 
 ### Depth
 
@@ -200,22 +207,28 @@ We categorize the studies on 3D-aware image generation according to the represen
   [CVPR 2022](https://arxiv.org/abs/2203.14954) / [Code](https://github.com/AustinXY/GIRAFFEHD) / [Project Page](https://austinxy.github.io/project-pages/giraffehd/)
 - Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis <br>
   [CVPR 2022](https://arxiv.org/abs/2204.06307) / [Code](https://github.com/Xuanmeng-Zhang/MVCGAN)
-- Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations <br>
-  [arXiv 2022](https://arxiv.org/abs/2204.08839) / [Code](https://github.com/nogu-atsu/ENARF-GAN) / [Project Page](https://nogu-atsu.github.io/ENARF-GAN/)
 - Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images <br>
   [CVPR 2022](https://arxiv.org/abs/2203.15926) / [Project Page](https://vcai.mpi-inf.mpg.de/projects/D3D/)
+- Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations <br>
+  [ECCV 2022](https://arxiv.org/abs/2204.08839) / [Code](https://github.com/nogu-atsu/ENARF-GAN) / [Project Page](https://nogu-atsu.github.io/ENARF-GAN/)
 - IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis <br>
   [SIGGRAPH Asia 2022](https://arxiv.org/abs/2205.15517) / [Code](https://github.com/MrTornado24/IDE-3D) / [Project Page](https://mrtornado24.github.io/IDE-3D/)
 - GRAM-HD: 3D-Consistent Image Generation at High Resolution with Generative Radiance Manifolds <br>
   [arXiv 2022](https://arxiv.org/abs/2206.07255) / [Project Page](https://jeffreyxiang.github.io/GRAM-HD/)
 - EpiGRAF: Rethinking training of 3D GANs <br>
-  [arXiv 2022](https://arxiv.org/abs/2206.10535) / [Code](https://github.com/universome/epigraf) / [Project Page](https://universome.github.io/epigraf)
- - AvatarGen: a 3D Generative Model for Animatable Human Avatars <br>
+  [NeurIPS 2022](https://arxiv.org/abs/2206.10535) / [Code](https://github.com/universome/epigraf) / [Project Page](https://universome.github.io/epigraf)
+- AvatarGen: a 3D Generative Model for Animatable Human Avatars <br>
   [arXiv 2022](https://arxiv.org/abs/2208.00561) / [Code](https://github.com/jfzhang95/AvatarGen)
 - cGOF: Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields <br>
   [NeurIPS 2022](https://arxiv.org/abs/2206.08361) / [Code](https://github.com/KeqiangSun/cGOF) / [Project Page](https://keqiangsun.github.io/projects/cgof/)
 - Improving 3D-aware Image Synthesis with A Geometry-aware Discriminator <br>
   [NeurIPS 2022](https://arxiv.org/abs/2209.15637) / [Code](https://github.com/VivianSZF/geod) / [Project Page](https://vivianszf.github.io/geod)
+- GAUDI: A Neural Architect for Immersive 3D Scene Generation <br>
+  [NeurIPS 2022](https://arxiv.org/abs/2207.13751) / [Code](https://github.com/apple/ml-gaudi)
+- DisCoScene: Spatially Disentangled Generative Radiance Fields for Controllable 3D-aware Scene Synthesis <br>
+  [arXiv 2022](https://arxiv.org/abs/2212.11984) / [Code](https://github.com/snap-research/discoscene) / [Project Page](https://snap-research.github.io/discoscene/)
+- Learning 3D-aware Image Synthesis with Unknown Pose Distribution <br>
+  [arXiv 2023](https://arxiv.org/abs/2301.07702) / [Code](https://github.com/VivianSZF/pof3d) / [Project Page](https://vivianszf.github.io/pof3d/)
 
 ### Hybrid Representation
 
@@ -223,8 +236,21 @@ We categorize the studies on 3D-aware image generation according to the represen
   [CVPR 2022](https://arXiv.org/abs/2112.10759) / [Code](https://github.com/genforce/volumegan) / [Project Page](https://genforce.github.io/volumegan/)
 - Efficient Geometry-aware 3D Generative Adversarial Networks <br>
   [CVPR 2022](https://arXiv.org/abs/2112.07945) / [Code](https://github.com/NVlabs/eg3d) / [Project Page](https://matthew-a-chan.github.io/EG3D/)
+- Generative Neural Articulated Radiance Fields <br>
+  [NeurIPS 2022](https://arxiv.org/abs/2206.14314) / [Project Page](https://www.computationalimaging.org/publications/gnarf/)
 - GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images <br>
   [NeurIPS 2022](https://nv-tlabs.github.io/GET3D/assets/paper.pdf) / [Code](https://github.com/nv-tlabs/GET3D) / [Project Page](https://nv-tlabs.github.io/GET3D/)
+- DiffRF: Rendering-Guided 3D Radiance Field Diffusion <br>
+  [arXiv 2022](https://arxiv.org/abs/2212.01206) / [Project Page](https://sirwyver.github.io/DiffRF/)
+- RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation <br>
+  [arXiv 2022](https://arxiv.org/abs/2211.09869) / [Code](https://github.com/Anciukevicius/RenderDiffusion)
+- Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion <br>
+  [arXiv 2022](https://arxiv.org/abs/2212.06135) / [Project Page](https://3d-avatar-diffusion.microsoft.com)
+- 3D Neural Field Generation using Triplane Diffusion <br>
+  [arXiv 2022](https://arxiv.org/abs/2211.16677) / [Code](https://github.com/JRyanShue/NFD) / [Project Page](https://jryanshue.com/nfd/index.html)
+
+
+
 
 ## 3D Control of 2D Generative Models
 
@@ -260,3 +286,9 @@ Besides explicitly learning a 3D generative model, there are also some attempts 
   [CVPR 2022](https://arxiv.org/abs/2112.05637) / [Code](https://github.com/CrisHY1995/headnerf) / [Project Page](https://hy1995.top/HeadNeRF-Project/)
 - GAN2X: Non-Lambertian Inverse Rendering of Image GANs <br>
   [3DV 2022](https://arxiv.org/abs/2206.09244) / [Project Page](https://people.mpi-inf.mpg.de/~xpan/GAN2X/)
+- DreamFusion: Text-to-3D using 2D Diffusion <br>
+  [arXiv 2022](https://arxiv.org/abs/2209.14988) / [Project Page](https://dreamfusion3d.github.io)
+- Magic3D: High-Resolution Text-to-3D Content Creation <br>
+  [arXiv 2022](https://arxiv.org/abs/2211.10440) / [Project Page](https://deepimagination.cc/Magic3D/)
+- Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation <br>
+  [arXiv 2022](https://arxiv.org/abs/2212.00774) / [Code](https://github.com/pals-ttic/sjc/) / [Project Page](https://pals.ttic.edu/p/score-jacobian-chaining)
