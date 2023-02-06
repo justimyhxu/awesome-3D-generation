@@ -1,6 +1,6 @@
 # Awesome 3D Generation
 
-*News*: We provide a survey, [*Deep Generative Models on 3D Representations: A Survey*](https://arxiv.org/abs/2210.15663), to help the community track the evolution of this field.3
+*News*: We provide a survey, [*Deep Generative Models on 3D Representations: A Survey*](https://arxiv.org/abs/2210.15663), to help the community track the evolution of this field.
 
 > **Deep Generative Models on 3D Representations: A Survey** <br>
 > Zifan Shi*, Sida Peng*, Yinghao Xu*, Yiyi Liao, Yujun Shen<br>
