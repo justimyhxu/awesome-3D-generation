@@ -290,5 +290,7 @@ Besides explicitly learning a 3D generative model, there are also some attempts 
   [arXiv 2022](https://arxiv.org/abs/2209.14988) / [Project Page](https://dreamfusion3d.github.io)
 - Magic3D: High-Resolution Text-to-3D Content Creation <br>
   [arXiv 2022](https://arxiv.org/abs/2211.10440) / [Project Page](https://deepimagination.cc/Magic3D/)
+- 3D-TOGO: Towards Text-Guided Cross-Category 3D Object Generation <br>
+  [AAAI 2023](https://arxiv.org/abs/2212.01103)
 - Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation <br>
   [arXiv 2022](https://arxiv.org/abs/2212.00774) / [Code](https://github.com/pals-ttic/sjc/) / [Project Page](https://pals.ttic.edu/p/score-jacobian-chaining)
