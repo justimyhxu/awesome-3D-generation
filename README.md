@@ -229,6 +229,8 @@ We categorize the studies on 3D-aware image generation according to the represen
   [arXiv 2022](https://arxiv.org/abs/2212.11984) / [Code](https://github.com/snap-research/discoscene) / [Project Page](https://snap-research.github.io/discoscene/)
 - Learning 3D-aware Image Synthesis with Unknown Pose Distribution <br>
   [arXiv 2023](https://arxiv.org/abs/2301.07702) / [Code](https://github.com/VivianSZF/pof3d) / [Project Page](https://vivianszf.github.io/pof3d/)
+- Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars <br>
+  [CVPR 2023](https://arxiv.org/abs/2211.11208) / [Code](https://github.com/MrTornado24/Next3D) / [Project Page](https://mrtornado24.github.io/Next3D/)
 
 ### Hybrid Representation
 
